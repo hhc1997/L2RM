@@ -1,4 +1,4 @@
-PyTorch implementation for "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval (paper ID: 5638)"
+PyTorch implementation for "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval (CVPR 2024)"
 # Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval
 
 ## Requirements
