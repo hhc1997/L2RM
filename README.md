@@ -48,6 +48,9 @@ Modify some necessary parameters and run it.
 python main_testing.py
 ```
 
+### Pre-trained L2RM models
+The pre-trained models are available [here](https://drive.google.com/drive/folders/1NSEoPaZa3kkxKt3jI83aWDDOax-5IGvD).
+
 ## License
 
 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
