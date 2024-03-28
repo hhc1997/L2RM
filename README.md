@@ -6,7 +6,7 @@ PyTorch implementation for "Learning to Rematch Mismatched Pairs for Robust Cros
 - torch 1.12
 - numpy
 - scikit-learn
-- pomegranate [Install](https://github.com/rayleizhu/pomegranate). Note that pomegranate requires `Cython=0.29`, `NumPy`, `SciPy`, `NetworkX`, and `joblib`. Than you can run `python setup.py build` and `python setup.py install` to install it.)
+- pomegranate [Install](https://github.com/rayleizhu/pomegranate). Note that pomegranate requires `Cython=0.29`, `NumPy`, `SciPy`, `NetworkX`, and `joblib`. Then you can run `python setup.py build` and `python setup.py install` to install it.)
 - Punkt Sentence Tokenizer:
   
 ```
